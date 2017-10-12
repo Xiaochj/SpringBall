@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/board_super.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/board_super.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/board_middle.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/board_middle.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/board_normal.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/board_normal.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/rank_item.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/rank_item.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/rank_title.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/rank_title.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/board_shit.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/board_shit.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_button.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/main_button.png"
+    }
+]

@@ -1,0 +1,61 @@
+10
+
+dir
+192
+https://svn.sinacloud.com/orangetranslate/2/SpringBall/res
+https://svn.sinacloud.com/orangetranslate
+
+
+
+2016-04-24T15:01:18.564251Z
+170
+13772521682@yeah.net
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3d3eb5ef-1b36-4d13-b03d-d6a095773f53
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+values-w820dp
+dir
+

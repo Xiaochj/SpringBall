@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/orangetranslate/!svn/ver/162/2/SpringBall/src/com/springball/view/move
+END
+MoveStill.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/orangetranslate/!svn/ver/142/2/SpringBall/src/com/springball/view/move/MoveStill.java
+END
+MoveVertical.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/orangetranslate/!svn/ver/162/2/SpringBall/src/com/springball/view/move/MoveVertical.java
+END
+MoveHorizontal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/orangetranslate/!svn/ver/162/2/SpringBall/src/com/springball/view/move/MoveHorizontal.java
+END
+BaseMoveBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/orangetranslate/!svn/ver/142/2/SpringBall/src/com/springball/view/move/BaseMoveBehavior.java
+END
+MoveCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/orangetranslate/!svn/ver/162/2/SpringBall/src/com/springball/view/move/MoveCircle.java
+END
+MoveIncline.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/orangetranslate/!svn/ver/162/2/SpringBall/src/com/springball/view/move/MoveIncline.java
+END
