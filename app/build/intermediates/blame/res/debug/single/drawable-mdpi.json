@@ -28,12 +28,12 @@
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-mdpi/main_button.png"
     },
     {
-        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
-        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-mdpi/background.png",
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",

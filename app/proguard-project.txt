@@ -5,6 +5,9 @@
 -dontoptimize
 -dontskipnonpubliclibraryclassmembers
 
+#忽略警告
+-ignorewarnings
+
 -keep public class * extends android.app.Activity
 -keep public class * extends android.app.Application
 -keep public class * extends android.app.Service
@@ -59,6 +62,3 @@
 }
 
 -dontwarn com.newqm.sdkoffer.**
-
--libraryjars libs/android-support-v4.jar
--libraryjars libs/qumi_android_2.8.2.jar

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/release/layout/main_layout.xml",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/release/layout/rank_layout.xml",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/layout/rank_layout.xml"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/release/layout/rank_list_item.xml",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/layout/rank_list_item.xml"
+    }
+]

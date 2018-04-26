@@ -1,0 +1,23 @@
+# view AndroidManifest.xml #generated:40
+-keep class com.newqm.sdkoffer.QuMiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.springball.activity.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.springball.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.springball.activity.RankActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.springball.activity.WelcomeActivity { <init>(...); }
+
+# view res/layout/main_layout.xml #generated:20
+# view res/layout/main_layout.xml #generated:7
+# view res/layout/rank_layout.xml #generated:16
+# view res/layout/rank_layout.xml #generated:26
+# view res/layout/rank_list_item.xml #generated:18
+# view res/layout/rank_list_item.xml #generated:7
+-keep class com.springball.view.CustomFontTextView { <init>(...); }
+

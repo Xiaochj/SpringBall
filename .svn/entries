@@ -111,7 +111,7 @@ file
 169
 
 
-
+delete
 2016-04-23T08:47:24.944000Z
 361ef2a2fe1a35cfbf95e8a4c97391cb
 2016-04-23T09:41:26.041572Z
@@ -149,9 +149,17 @@ add
 
 assets
 dir
+
+
+
+delete
 
 bin
 dir
+
+
+
+delete
 
 gen
 dir
@@ -226,16 +234,24 @@ has-props
 
 libs
 dir
+
+
+
+delete
 
 proguard
 dir
+
+
+
+delete
 
 proguard-project.txt
 file
 169
 
 
-
+delete
 2016-04-23T05:55:50.969000Z
 c5585d16d1b495d80d5716c0b1b4002d
 2016-04-23T09:41:26.041572Z
@@ -300,9 +316,17 @@ file
 
 res
 dir
+
+
+
+delete
 
 src
 dir
+
+
+
+delete
 
 upload_channel
 file

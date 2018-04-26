@@ -20,12 +20,12 @@
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xhdpi/background.png"
     },
     {
-        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
-        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xhdpi/icon.png"
-    },
-    {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xhdpi/board_super.png",
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xhdpi/board_super.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xhdpi/icon.png"
     },
     {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xhdpi/main_button.png",

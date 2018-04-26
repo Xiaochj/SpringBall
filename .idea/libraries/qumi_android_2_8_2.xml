@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="qumi_android_2.8.2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/qumi_android_2.8.2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

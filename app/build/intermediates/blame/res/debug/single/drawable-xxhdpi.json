@@ -28,12 +28,12 @@
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/rank_item.png"
     },
     {
-        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/rank_title.png",
-        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/rank_title.png"
-    },
-    {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/board_shit.png",
         "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/board_shit.png"
+    },
+    {
+        "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/rank_title.png",
+        "source": "/Users/xiaochj/workspace/SpringBall/app/src/main/res/drawable-xxhdpi/rank_title.png"
     },
     {
         "merged": "/Users/xiaochj/workspace/SpringBall/app/build/intermediates/res/merged/debug/drawable-xxhdpi/main_button.png",

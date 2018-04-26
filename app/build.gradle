@@ -10,6 +10,16 @@ android {
         targetSdkVersion 21
     }
 
+    lintOptions {
+        //    warning 'InvalidPackage'
+        warningsAsErrors true
+        abortOnError false
+        htmlReport true
+        htmlOutput file("lint-report/lint-report.html")
+        xmlReport true
+        xmlOutput file("lint-report/lint-report.xml")
+    }
+
     buildTypes {
         release {
             minifyEnabled true
@@ -19,6 +29,7 @@ android {
 }
 
 dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
     compile 'com.android.support:support-v4:23.4.0'
     compile files('libs/qumi_android_2.8.2.jar')
 }
